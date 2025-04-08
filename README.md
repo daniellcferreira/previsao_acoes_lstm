@@ -5,6 +5,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Computação%20Numérica-013243?style=flat-square&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualização%20de%20Dados-11557C?style=flat-square&logo=matplotlib)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Pré%20Processamento-F7931E?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-APIs%20de%20Deep%20Learning-D00000?style=flat-square&logo=keras)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter)
 
 ---
